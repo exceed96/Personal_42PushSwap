@@ -26,10 +26,10 @@
 
 ## ☑️ 정리 내용
 
-[👉노션 바로가기](https://www.notion.so/a466d432d2f24dc9a367832e1206c1f9?v=269bb5f9b5de4cba8015271f939df121&pvs=4)
+[👉노션 바로가기](https://www.notion.so/push_swap-f525a05d6f49453abfea7bfdc0dc264f?pvs=4)
 
 <br />
 
-## ☑️ 프로젝트 결과
-![May-18-2024 11-18-35](https://github.com/exceed96/Personal_42Libft/assets/90549959/de6f76da-d0f7-4b82-8ba9-2903e501803a)
-<img width="205" alt="스크린샷 2024-05-17 오후 1 50 24" src="https://github.com/exceed96/Personal_42Libft/assets/90549959/25105e49-e519-4947-8022-c701a3d6ea2d">
+## ☑️ 프로젝트 결과<img width="200" alt="스크린샷 2024-05-19 오후 12 41 30" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/f562e800-4531-49c0-94d9-1e601aef9520">
+
+
