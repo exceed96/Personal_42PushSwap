@@ -17,8 +17,8 @@
 
 ##  ☑️ 제한 조건
 <div style="flex">
-<img width="400" height="600" alt="스크린샷 2024-05-19 오후 12 37 45" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/fd06d7cd-4618-4992-b747-45ba11d994aa">
-<img width="400" height="600" alt="스크린샷 2024-05-19 오후 12 38 10" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/5d6b8ab1-4206-4ad8-9abc-073c39b2fc55">
+<img width="350" height="600" alt="스크린샷 2024-05-19 오후 12 37 45" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/fd06d7cd-4618-4992-b747-45ba11d994aa">
+<img width="350" height="600" alt="스크린샷 2024-05-19 오후 12 38 10" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/5d6b8ab1-4206-4ad8-9abc-073c39b2fc55">
 </div>
 
 
