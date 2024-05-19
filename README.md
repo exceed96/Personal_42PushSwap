@@ -30,6 +30,7 @@
 
 <br />
 
-## ☑️ 프로젝트 결과<img width="200" alt="스크린샷 2024-05-19 오후 12 41 30" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/f562e800-4531-49c0-94d9-1e601aef9520">
+## ☑️ 프로젝트 결과
+<img width="200" alt="스크린샷 2024-05-19 오후 12 41 30" src="https://github.com/exceed96/Personal_42PushSwap/assets/90549959/f562e800-4531-49c0-94d9-1e601aef9520">
 
 
